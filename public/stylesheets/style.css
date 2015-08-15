@@ -59,11 +59,11 @@ font-family: 'microsoft yahei',Arial,sans-serif;
 #about {
 }
 
-#contact_us {
+.services {
   background-color: #306d9f;
   color: #ffffff;
 }
-#contact_us .glyphicon {
+.services .glyphicon {
   border: 2px solid #FFFFFF;
   border-radius: 50%;
   display: inline-block;
