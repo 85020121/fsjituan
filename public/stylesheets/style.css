@@ -59,11 +59,11 @@ font-family: 'microsoft yahei',Arial,sans-serif;
 #about {
 }
 
-#services {
+#contact_us {
   background-color: #306d9f;
   color: #ffffff;
 }
-#services .glyphicon {
+#contact_us .glyphicon {
   border: 2px solid #FFFFFF;
   border-radius: 50%;
   display: inline-block;
@@ -75,7 +75,7 @@ font-family: 'microsoft yahei',Arial,sans-serif;
   width: 140px;
 }
 
-#information {
+#wanglongxiang {
   background: url(../images/estate.jpg) no-repeat center center fixed; 
   display: table;
   height: 800px;
@@ -86,7 +86,7 @@ font-family: 'microsoft yahei',Arial,sans-serif;
   -o-background-size: cover;
   background-size: cover;
 }
-#information .panel {
+#wanglongxiang .panel {
   opacity: 0.85;
 }
 
